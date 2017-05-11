@@ -250,3 +250,7 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/AliRecommand
+/DataMiningCompete2017/PracticeSamples
+/DataMiningCompete2017/TecentCompete_17_5/submission.csv
+/DataMiningCompete2017/TecentCompete_17_5/test.csv
